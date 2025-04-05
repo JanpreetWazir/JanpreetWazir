@@ -19,7 +19,7 @@
 </p>
 
 - 👯 I’m looking to collaborate on [Bug Crowd](https://bugcrowd.com/Janpreet)
-- 👨‍💻 All of my projects are available at [My Projects](https://bejewelled-naiad-90a753.netlify.app/)
+- ✍️ See my blogs at [Medium](https://medium.com/@janpreet4340)
 - 💬 Ask me about **Web Penetration Testing**
 - 📫 How to reach me: **janpreet4340@gmail.com**
 - ⚡ Fun fact: **Why do hackers never get invited to dinner? Because they keep stealing the cookies! 🍪🔓**
