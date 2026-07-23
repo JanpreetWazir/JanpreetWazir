@@ -7,7 +7,7 @@
   <a href="https://twitter.com/janpreet4340" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/janpreet-singh-120009222/" target="_blank">
+  <a href="[https://www.linkedin.com/in/janpreet-singh-120009222/](https://www.linkedin.com/in/janpreet-singh-11783a36b/?)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://bugcrowd.com/Janpreet" target="_blank">
