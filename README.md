@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Janpreet Singh</h1>
 <h3 align="center">A Passionate CyberSecurity Researcher | Web Penetration Tester</h3>
@@ -7,17 +7,24 @@
   <a href="https://twitter.com/janpreet4340" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-<a href="https://www.linkedin.com/in/janpreet-singh-11783a36b/" target="_blank">LinkedIn</a>    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+  <a href="https://www.linkedin.com/in/janpreet-singh-11783a36b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://bugcrowd.com/Janpreet" target="_blank">
-    <img src="https://img.shields.io/badge/BugCrowd-%23FF4F4F.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Crowd" />
+
+  <a href="https://yeswehack.com/hunters/janpreet4340" target="_blank">
+    <img src="https://www.svgrepo.com/show/331368/shield.svg" alt="YesWeHack" height="30" width="40" />
   </a>
+
+  <a href="https://cyber.comolho.com/researcher/profile/janpreet4340/?hof-page=1" target="_blank">
+    <img src="https://cyber.comolho.com/favicon.ico" alt="Com Olho" height="30" width="30" />
+  </a>
+
   <a href="mailto:janpreet4340@gmail.com?subject=Hello%20Janpreet!" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-- 👯 I’m looking to collaborate on [Bug Crowd](https://bugcrowd.com/Janpreet)
 - ✍️ See my blogs at [Medium](https://medium.com/@janpreet4340)
 - 💬 Ask me about **Web Penetration Testing**
 - 📫 How to reach me: **janpreet4340@gmail.com**
@@ -67,8 +74,10 @@
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div>
 
-#### Thank You-🙏🏼
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+#### Thank You 🙏🏼
 
 ⭐️ From [Janpreet Singh](https://github.com/Janpreet)
