@@ -13,11 +13,11 @@
   </a>
 
   <a href="https://yeswehack.com/hunters/janpreet4340" target="_blank">
-    <img src="https://www.svgrepo.com/show/331368/shield.svg" alt="YesWeHack" height="30" width="40" />
+    <img src="https://yeswehack.com/assets/images/favicon.ico" alt="YesWeHack" width="30" height="30" />
   </a>
 
   <a href="https://cyber.comolho.com/researcher/profile/janpreet4340/?hof-page=1" target="_blank">
-    <img src="https://cyber.comolho.com/favicon.ico" alt="Com Olho" height="30" width="30" />
+    <img src="https://cyber.comolho.com/favicon.ico" alt="Com Olho" width="30" height="30" />
   </a>
 
   <a href="mailto:janpreet4340@gmail.com?subject=Hello%20Janpreet!" target="_blank">
